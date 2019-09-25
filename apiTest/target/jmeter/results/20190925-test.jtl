@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="203" it="0" lt="203" ct="131" ts="1569406646105" s="true" lb="HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="2781" sby="117" sc="1" ec="0" ng="1" na="1" hn="LAPTOP-TGHCEH1T">
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://www.baidu.com/</java.net.URL>
+</httpSample>
+
+</testResults>
